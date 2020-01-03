@@ -7,4 +7,4 @@ tags:
 ---
 
 # 후기
-![복습](/TC/1/servo.jpg)
+![복습](/TC/1/servo.PNG)
