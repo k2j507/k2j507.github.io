@@ -6,7 +6,7 @@ tags:
 
 ---
 
-목표: 공부 계획 세우기
+목표: Baekjoon Online Judge 3문제 풀기
  - 백준 1912(연속합)
 
 문제 :
