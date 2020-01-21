@@ -6,7 +6,7 @@ tags:
 
 ---
 
-목표 : Baekjoon Online Judge 3문제 풀기
+목표 : Baekjoon Online Judge 2문제 풀기
 
  - 백준 11057(오르막 수)
 
